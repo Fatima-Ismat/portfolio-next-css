@@ -1,3 +1,4 @@
+
 import Image from "next/image";
 import "../style/hero.css";
 import "../style/hero.css";

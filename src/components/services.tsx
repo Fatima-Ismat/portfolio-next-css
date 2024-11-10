@@ -1,4 +1,4 @@
-import "../style/Services.css";
+import "../style/services.css";
 import { FaLaptopCode } from "react-icons/fa";
 import { GiSoundOn } from "react-icons/gi";
 import { SiNextui } from "react-icons/si";

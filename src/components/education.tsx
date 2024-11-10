@@ -1,3 +1,4 @@
+{/* eslint-disable react/no-unescaped-entities */}
 import "../style/education.css";
 
 function Education() {
@@ -8,7 +9,7 @@ function Education() {
         <p>
           trusted by professionals for Exceptional Quality and service our
           clints from various industries trust us to deliver top-notch quality
-          and results. Here's what they have to say about our work..
+          and results. Here's what they have to say about our work.
         </p>
 </div>
     <div className="box-con-edu">
